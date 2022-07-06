@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ApacheAlpha
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python、java、nodejs
+- 🌱 I’m currently learning python、go、nodejs
 - 📫 How to reach me？  Mail address：china_jikailiao@163.com
 
 <!---
